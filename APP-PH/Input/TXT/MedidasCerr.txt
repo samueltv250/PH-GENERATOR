@@ -1,0 +1,671 @@
+Name: E-166
+
+Point of Beginning :  North: 1005508.8449m     East: 690819.6350m
+
+Segment #1  :  Line
+
+Course: S14¡ 56' 02"W     Length: 0.940m
+North: 1005507.9366m     East: 690819.3928m
+
+
+Segment #2  :  Line
+
+Course: N75¡ 03' 58"W     Length: 2.970m
+North: 1005508.7020m     East: 690816.5231m
+
+
+Segment #3  :  Line
+
+Course: N14¡ 56' 02"E     Length: 4.080m
+North: 1005512.6442m     East: 690817.5746m
+
+
+Segment #4  :  Line
+
+Course: N75¡ 03' 58"W     Length: 3.055m
+North: 1005513.4315m     East: 690814.6227m
+
+
+Segment #5  :  Line
+
+Course: N14¡ 56' 02"E     Length: 8.260m
+North: 1005521.4127m     East: 690816.7514m
+
+
+Segment #6  :  Line
+
+Course: S75¡ 03' 58"E     Length: 7.340m
+North: 1005519.5211m     East: 690823.8435m
+
+
+Segment #7  :  Line
+
+Course: S14¡ 56' 02"W     Length: 11.400m
+North: 1005508.5060m     East: 690820.9056m
+
+
+Segment #8  :  Line
+
+Course: N75¡ 03' 58"W     Length: 1.315m
+North: 1005508.8449m     East: 690819.6350m
+
+--------------------------------------------------
+
+
+Perimeter: 39.360m     Area: 76.88sq.m
+************************************************************************
+Name: E-172
+
+Point of Beginning :  North: 1005497.2275m     East: 690863.1924m
+
+Segment #1  :  Line
+
+Course: S14¡ 56' 02"W     Length: 0.940m
+North: 1005496.3193m     East: 690862.9502m
+
+
+Segment #2  :  Line
+
+Course: N75¡ 03' 58"W     Length: 2.970m
+North: 1005497.0847m     East: 690860.0805m
+
+
+Segment #3  :  Line
+
+Course: N14¡ 56' 02"E     Length: 4.080m
+North: 1005501.0268m     East: 690861.1319m
+
+
+Segment #4  :  Line
+
+Course: N75¡ 03' 58"W     Length: 3.055m
+North: 1005501.8141m     East: 690858.1801m
+
+
+Segment #5  :  Line
+
+Course: N14¡ 56' 02"E     Length: 8.260m
+North: 1005509.7953m     East: 690860.3088m
+
+
+Segment #6  :  Line
+
+Course: S75¡ 03' 58"E     Length: 7.340m
+North: 1005507.9037m     East: 690867.4009m
+
+
+Segment #7  :  Line
+
+Course: S14¡ 56' 02"W     Length: 11.400m
+North: 1005496.8886m     East: 690864.4630m
+
+
+Segment #8  :  Line
+
+Course: N75¡ 03' 58"W     Length: 1.315m
+North: 1005497.2275m     East: 690863.1924m
+
+--------------------------------------------------
+
+
+Perimeter: 39.360m     Area: 76.88sq.m
+************************************************************************
+Name: E-179
+
+Point of Beginning :  North: 1005552.6910m     East: 690835.2933m
+
+Segment #1  :  Line
+
+Course: N14¡ 56' 02"E     Length: 0.940m
+North: 1005553.5992m     East: 690835.5355m
+
+
+Segment #2  :  Line
+
+Course: S75¡ 03' 58"E     Length: 2.970m
+North: 1005552.8338m     East: 690838.4052m
+
+
+Segment #3  :  Line
+
+Course: S14¡ 56' 02"W     Length: 4.080m
+North: 1005548.8916m     East: 690837.3538m
+
+
+Segment #4  :  Line
+
+Course: S75¡ 03' 58"E     Length: 3.055m
+North: 1005548.1043m     East: 690840.3056m
+
+
+Segment #5  :  Line
+
+Course: S14¡ 56' 02"W     Length: 8.260m
+North: 1005540.1232m     East: 690838.1769m
+
+
+Segment #6  :  Line
+
+Course: N75¡ 03' 58"W     Length: 7.340m
+North: 1005542.0147m     East: 690831.0848m
+
+
+Segment #7  :  Line
+
+Course: N14¡ 56' 02"E     Length: 11.400m
+North: 1005553.0298m     East: 690834.0227m
+
+
+Segment #8  :  Line
+
+Course: S75¡ 03' 58"E     Length: 1.315m
+North: 1005552.6910m     East: 690835.2933m
+
+--------------------------------------------------
+
+
+Perimeter: 39.360m     Area: 76.88sq.m
+************************************************************************
+Name: E-187
+
+Point of Beginning :  North: 1005568.0708m     East: 690777.6291m
+
+Segment #1  :  Line
+
+Course: N14¡ 56' 02"E     Length: 0.940m
+North: 1005568.9791m     East: 690777.8713m
+
+
+Segment #2  :  Line
+
+Course: S75¡ 03' 58"E     Length: 2.970m
+North: 1005568.2137m     East: 690780.7410m
+
+
+Segment #3  :  Line
+
+Course: S14¡ 56' 02"W     Length: 4.080m
+North: 1005564.2715m     East: 690779.6896m
+
+
+Segment #4  :  Line
+
+Course: S75¡ 03' 58"E     Length: 3.055m
+North: 1005563.4842m     East: 690782.6414m
+
+
+Segment #5  :  Line
+
+Course: S14¡ 56' 02"W     Length: 8.260m
+North: 1005555.5030m     East: 690780.5127m
+
+
+Segment #6  :  Line
+
+Course: N75¡ 03' 58"W     Length: 7.340m
+North: 1005557.3946m     East: 690773.4206m
+
+
+Segment #7  :  Line
+
+Course: N14¡ 56' 02"E     Length: 11.400m
+North: 1005568.4097m     East: 690776.3585m
+
+
+Segment #8  :  Line
+
+Course: S75¡ 03' 58"E     Length: 1.315m
+North: 1005568.0708m     East: 690777.6291m
+
+--------------------------------------------------
+
+
+Perimeter: 39.360m     Area: 76.88sq.m
+************************************************************************
+Name: E-189
+
+Point of Beginning :  North: 1005584.4869m     East: 690788.2431m
+
+Segment #1  :  Line
+
+Course: S75¡ 03' 58"E     Length: 7.300m
+North: 1005582.6056m     East: 690795.2965m
+
+
+Segment #2  :  Line
+
+Course: S14¡ 56' 02"W     Length: 11.400m
+North: 1005571.5905m     East: 690792.3586m
+
+
+Segment #3  :  Line
+
+Course: N75¡ 03' 58"W     Length: 1.270m
+North: 1005571.9178m     East: 690791.1316m
+
+
+Segment #4  :  Line
+
+Course: S14¡ 56' 02"W     Length: 0.937m
+North: 1005571.0124m     East: 690790.8901m
+
+
+Segment #5  :  Line
+
+Course: N75¡ 03' 58"W     Length: 2.970m
+North: 1005571.7778m     East: 690788.0204m
+
+
+Segment #6  :  Line
+
+Course: N14¡ 56' 02"E     Length: 4.077m
+North: 1005575.7171m     East: 690789.0710m
+
+
+Segment #7  :  Line
+
+Course: N75¡ 03' 58"W     Length: 3.060m
+North: 1005576.5057m     East: 690786.1144m
+
+
+Segment #8  :  Line
+
+Course: N14¡ 56' 02"E     Length: 8.260m
+North: 1005584.4869m     East: 690788.2431m
+
+--------------------------------------------------
+
+
+Perimeter: 39.274m     Area: 76.40sq.m
+************************************************************************
+Name: E-194
+
+Point of Beginning :  North: 1005575.0806m     East: 690823.5102m
+
+Segment #1  :  Line
+
+Course: S75¡ 03' 58"E     Length: 7.300m
+North: 1005573.1994m     East: 690830.5637m
+
+
+Segment #2  :  Line
+
+Course: S14¡ 56' 02"W     Length: 11.400m
+North: 1005562.1842m     East: 690827.6258m
+
+
+Segment #3  :  Line
+
+Course: N75¡ 03' 58"W     Length: 1.270m
+North: 1005562.5115m     East: 690826.3987m
+
+
+Segment #4  :  Line
+
+Course: S14¡ 56' 02"W     Length: 0.937m
+North: 1005561.6062m     East: 690826.1573m
+
+
+Segment #5  :  Line
+
+Course: N75¡ 03' 58"W     Length: 2.970m
+North: 1005562.3716m     East: 690823.2875m
+
+
+Segment #6  :  Line
+
+Course: N14¡ 56' 02"E     Length: 4.077m
+North: 1005566.3109m     East: 690824.3382m
+
+
+Segment #7  :  Line
+
+Course: N75¡ 03' 58"W     Length: 3.060m
+North: 1005567.0994m     East: 690821.3815m
+
+
+Segment #8  :  Line
+
+Course: N14¡ 56' 02"E     Length: 8.260m
+North: 1005575.0806m     East: 690823.5102m
+
+--------------------------------------------------
+
+
+Perimeter: 39.274m     Area: 76.40sq.m
+************************************************************************
+Name: E-205
+
+Point of Beginning :  North: 1005584.3907m     East: 690880.2044m
+
+Segment #1  :  Line
+
+Course: N75¡ 03' 58"W     Length: 7.300m
+North: 1005586.2719m     East: 690873.1510m
+
+
+Segment #2  :  Line
+
+Course: N14¡ 56' 02"E     Length: 11.400m
+North: 1005597.2870m     East: 690876.0889m
+
+
+Segment #3  :  Line
+
+Course: S75¡ 03' 58"E     Length: 1.270m
+North: 1005596.9597m     East: 690877.3159m
+
+
+Segment #4  :  Line
+
+Course: N14¡ 56' 02"E     Length: 0.937m
+North: 1005597.8651m     East: 690877.5574m
+
+
+Segment #5  :  Line
+
+Course: S75¡ 03' 58"E     Length: 2.970m
+North: 1005597.0997m     East: 690880.4271m
+
+
+Segment #6  :  Line
+
+Course: S14¡ 56' 02"W     Length: 4.077m
+North: 1005593.1604m     East: 690879.3765m
+
+
+Segment #7  :  Line
+
+Course: S75¡ 03' 58"E     Length: 3.060m
+North: 1005592.3718m     East: 690882.3331m
+
+
+Segment #8  :  Line
+
+Course: S14¡ 56' 02"W     Length: 8.260m
+North: 1005584.3907m     East: 690880.2044m
+
+--------------------------------------------------
+
+
+Perimeter: 39.274m     Area: 76.40sq.m
+************************************************************************
+Name: E-211
+
+Point of Beginning :  North: 1005596.0080m     East: 690836.6471m
+
+Segment #1  :  Line
+
+Course: N75¡ 03' 58"W     Length: 7.300m
+North: 1005597.8893m     East: 690829.5936m
+
+
+Segment #2  :  Line
+
+Course: N14¡ 56' 02"E     Length: 11.400m
+North: 1005608.9044m     East: 690832.5315m
+
+
+Segment #3  :  Line
+
+Course: S75¡ 03' 58"E     Length: 1.270m
+North: 1005608.5771m     East: 690833.7586m
+
+
+Segment #4  :  Line
+
+Course: N14¡ 56' 02"E     Length: 0.937m
+North: 1005609.4825m     East: 690834.0000m
+
+
+Segment #5  :  Line
+
+Course: S75¡ 03' 58"E     Length: 2.970m
+North: 1005608.7171m     East: 690836.8698m
+
+
+Segment #6  :  Line
+
+Course: S14¡ 56' 02"W     Length: 4.077m
+North: 1005604.7778m     East: 690835.8191m
+
+
+Segment #7  :  Line
+
+Course: S75¡ 03' 58"E     Length: 3.060m
+North: 1005603.9892m     East: 690838.7758m
+
+
+Segment #8  :  Line
+
+Course: S14¡ 56' 02"W     Length: 8.260m
+North: 1005596.0080m     East: 690836.6471m
+
+--------------------------------------------------
+
+
+Perimeter: 39.274m     Area: 76.40sq.m
+************************************************************************
+Name: E-218
+
+Point of Beginning :  North: 1005625.5915m     East: 690797.8919m
+
+Segment #1  :  Line
+
+Course: S14¡ 56' 02"W     Length: 0.940m
+North: 1005624.6833m     East: 690797.6496m
+
+
+Segment #2  :  Line
+
+Course: N75¡ 03' 58"W     Length: 2.970m
+North: 1005625.4486m     East: 690794.7799m
+
+
+Segment #3  :  Line
+
+Course: N14¡ 56' 02"E     Length: 4.080m
+North: 1005629.3908m     East: 690795.8314m
+
+
+Segment #4  :  Line
+
+Course: N75¡ 03' 58"W     Length: 3.100m
+North: 1005630.1897m     East: 690792.8361m
+
+
+Segment #5  :  Line
+
+Course: N14¡ 56' 02"E     Length: 8.260m
+North: 1005638.1709m     East: 690794.9648m
+
+
+Segment #6  :  Line
+
+Course: S75¡ 03' 58"E     Length: 7.340m
+North: 1005636.2793m     East: 690802.0569m
+
+
+Segment #7  :  Line
+
+Course: S14¡ 56' 02"W     Length: 11.400m
+North: 1005625.2642m     East: 690799.1190m
+
+
+Segment #8  :  Line
+
+Course: N75¡ 03' 58"W     Length: 1.270m
+North: 1005625.5915m     East: 690797.8919m
+
+--------------------------------------------------
+
+
+Perimeter: 39.360m     Area: 76.74sq.m
+************************************************************************
+Name: E-226
+
+Point of Beginning :  North: 1005610.2116m     East: 690855.5561m
+
+Segment #1  :  Line
+
+Course: S14¡ 56' 02"W     Length: 0.940m
+North: 1005609.3034m     East: 690855.3139m
+
+
+Segment #2  :  Line
+
+Course: N75¡ 03' 58"W     Length: 2.970m
+North: 1005610.0688m     East: 690852.4442m
+
+
+Segment #3  :  Line
+
+Course: N14¡ 56' 02"E     Length: 4.080m
+North: 1005614.0110m     East: 690853.4956m
+
+
+Segment #4  :  Line
+
+Course: N75¡ 03' 58"W     Length: 3.100m
+North: 1005614.8099m     East: 690850.5003m
+
+
+Segment #5  :  Line
+
+Course: N14¡ 56' 02"E     Length: 8.260m
+North: 1005622.7910m     East: 690852.6290m
+
+
+Segment #6  :  Line
+
+Course: S75¡ 03' 58"E     Length: 7.340m
+North: 1005620.8995m     East: 690859.7211m
+
+
+Segment #7  :  Line
+
+Course: S14¡ 56' 02"W     Length: 11.400m
+North: 1005609.8844m     East: 690856.7832m
+
+
+Segment #8  :  Line
+
+Course: N75¡ 03' 58"W     Length: 1.270m
+North: 1005610.2116m     East: 690855.5561m
+
+--------------------------------------------------
+
+
+Perimeter: 39.360m     Area: 76.74sq.m
+************************************************************************
+Name: E-233
+
+Point of Beginning :  North: 1005644.9839m     East: 690905.2351m
+
+Segment #1  :  Line
+
+Course: N14¡ 56' 02"E     Length: 0.940m
+North: 1005645.8922m     East: 690905.4773m
+
+
+Segment #2  :  Line
+
+Course: S75¡ 03' 58"E     Length: 2.970m
+North: 1005645.1268m     East: 690908.3470m
+
+
+Segment #3  :  Line
+
+Course: S14¡ 56' 02"W     Length: 4.080m
+North: 1005641.1846m     East: 690907.2956m
+
+
+Segment #4  :  Line
+
+Course: S75¡ 03' 58"E     Length: 3.100m
+North: 1005640.3857m     East: 690910.2909m
+
+
+Segment #5  :  Line
+
+Course: S14¡ 56' 02"W     Length: 8.260m
+North: 1005632.4045m     East: 690908.1622m
+
+
+Segment #6  :  Line
+
+Course: N75¡ 03' 58"W     Length: 7.340m
+North: 1005634.2961m     East: 690901.0701m
+
+
+Segment #7  :  Line
+
+Course: N14¡ 56' 02"E     Length: 11.400m
+North: 1005645.3112m     East: 690904.0080m
+
+
+Segment #8  :  Line
+
+Course: S75¡ 03' 58"E     Length: 1.270m
+North: 1005644.9839m     East: 690905.2351m
+
+--------------------------------------------------
+
+
+Perimeter: 39.360m     Area: 76.74sq.m
+************************************************************************
+Name: E-240
+
+Point of Beginning :  North: 1005658.4825m     East: 690854.6243m
+
+Segment #1  :  Line
+
+Course: N14¡ 56' 02"E     Length: 0.940m
+North: 1005659.3908m     East: 690854.8665m
+
+
+Segment #2  :  Line
+
+Course: S75¡ 03' 58"E     Length: 2.970m
+North: 1005658.6254m     East: 690857.7362m
+
+
+Segment #3  :  Line
+
+Course: S14¡ 56' 02"W     Length: 4.080m
+North: 1005654.6832m     East: 690856.6848m
+
+
+Segment #4  :  Line
+
+Course: S75¡ 03' 58"E     Length: 3.100m
+North: 1005653.8843m     East: 690859.6801m
+
+
+Segment #5  :  Line
+
+Course: S14¡ 56' 02"W     Length: 8.260m
+North: 1005645.9031m     East: 690857.5514m
+
+
+Segment #6  :  Line
+
+Course: N75¡ 03' 58"W     Length: 7.340m
+North: 1005647.7947m     East: 690850.4593m
+
+
+Segment #7  :  Line
+
+Course: N14¡ 56' 02"E     Length: 11.400m
+North: 1005658.8098m     East: 690853.3972m
+
+
+Segment #8  :  Line
+
+Course: S75¡ 03' 58"E     Length: 1.270m
+North: 1005658.4825m     East: 690854.6243m
+
+--------------------------------------------------
+
+
+Perimeter: 39.360m     Area: 76.74sq.m
